@@ -1,0 +1,8 @@
+export/
+*.sav
+*.sav.lua
+*.bin
+*.jsonl
+*.geojson
+__pycache__/
+node_modules/
